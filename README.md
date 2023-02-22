@@ -20,7 +20,7 @@ _[Landing page of madlib game]_
 ![](https://github.com/erikkaincolor/madlib_game/blob/main/replit-source-code.gif)     
 _[replit source code]_
 
-### ✨ [Demo](https://replit.com/@erikkaincolor/HB-Python-Prep-or-Project-FINAL)
+### ✨ [Play here!](https://replit.com/@erikkaincolor/HB-Python-Prep-or-Project-FINAL)
 
 ![](https://github.com/erikkaincolor/madlib_game/blob/main/game-walkthrough.gif)     
 _[Game walkthrough]_
