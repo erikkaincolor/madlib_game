@@ -9,11 +9,21 @@
   </a>
 </p>
 
-> This is a bandersnatchy, terminal-based, pick your own path experience.
+> This is a bandersnatchy, terminal-based, pick your own path terminal-based experience. More info on Netflix's Black Mirror: Bandersnatch debut and interactive television and films [here](https://pepperdine-graphic.com/opinion-the-intrigue-of-interactive-television-and-films/).
 
 ### 🏠 [Homepage](https://replit.com/@erikkaincolor/HB-Python-Prep-or-Project-FINAL)
 
+![](https://github.com/erikkaincolor/madlib_game/blob/main/game-cover.png)     
+
+_[Landing page of madlib game]_
+
+![](https://github.com/erikkaincolor/madlib_game/blob/main/replit-source-code.gif)     
+_[replit source code]_
+
 ### ✨ [Demo](https://replit.com/@erikkaincolor/HB-Python-Prep-or-Project-FINAL)
+
+![](https://github.com/erikkaincolor/madlib_game/blob/main/game-walkthrough.gif)     
+_[Game walkthrough]_
 
 ## Author
 
@@ -22,7 +32,7 @@
 * Website: erikkaapolk.com
 * Twitter: [@erikkaincolor](https://twitter.com/erikkaincolor)
 * Github: [@erikkaincolor](https://github.com/erikkaincolor)
-* LinkedIn: [@Erikka Polk](https://linkedin.com/in/Erikka Polk)
+* LinkedIn: [@ErikkaPolk](https://linkedin.com/in/ErikkaPolk)
 
 ## Show your support
 
